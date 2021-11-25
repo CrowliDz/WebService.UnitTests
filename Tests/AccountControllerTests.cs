@@ -22,6 +22,7 @@ namespace WebService.UnitTests.Test
             _client = TestHelper.Instance.Client;
         }
 
+
         [Theory]
         [InlineData("BadRequest", "lisa", "KnownAs", "Gender", "2000-01-01", "City", "Country", "Password")]
         public async Task Register_ShouldFail(string statusCode, string username, string knownAs, string gender, DateTime dateOfBirth, string city, string country, string password)
@@ -50,7 +51,7 @@ namespace WebService.UnitTests.Test
         }
 
         [Theory]
-        [InlineData("OK", "arturo", "KnownAs", "Gender", "2000-01-01", "City", "Country", "Pa$$w0rd")]
+        [InlineData("OK", "pish", "KnownAs", "Gender", "2000-01-01", "City", "Country", "Pa$$w0rd")]
         public async Task Register_ShouldReturnOk(string statusCode, string username, string knownAs, string gender, DateTime dateOfBirth, string city, string country, string password)
         {
             // Arrange

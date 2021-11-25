@@ -13,6 +13,7 @@ D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\xunit.runner
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\appsettings.json
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\a.jpg
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\WebService.UnitTests.deps.json
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\WebService.UnitTests.runtimeconfig.json
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\WebService.UnitTests.runtimeconfig.dev.json
@@ -330,6 +331,7 @@ D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Microsoft.Te
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\nunit.framework.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\SQLitePCLRaw.core.dll
@@ -337,10 +339,12 @@ D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\SQLitePCLRaw
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.IO.Pipelines.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Uno.Core.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Uno.Diagnostics.Eventing.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\Uno.Foundation.dll
@@ -433,8 +437,10 @@ D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\runtimes\win
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\WebService.Api.dll
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\bin\Debug\net5.0\WebService.Api.pdb
+D:\crowl\Documents\ProyectoWS\WebService.UnitTests\obj\Debug\net5.0\WebService.UnitTests.csproj.AssemblyReference.cache
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\obj\Debug\net5.0\WebService.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\obj\Debug\net5.0\WebService.UnitTests.AssemblyInfoInputs.cache
 D:\crowl\Documents\ProyectoWS\WebService.UnitTests\obj\Debug\net5.0\WebService.UnitTests.AssemblyInfo.cs

@@ -1,11 +1,11 @@
-﻿using WebService.DTOs;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 using System;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using WebService.DTOs;
 using Xunit;
 
 namespace WebService.UnitTests.Tests
